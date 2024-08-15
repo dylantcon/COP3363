@@ -1,0 +1,13 @@
+12
+Aaeron,John,E,80,80,80
+Aberon,John,E,80,80,80
+Aaaaaaaaaaaaaa,Spooked,E,80,80,80
+Norbo,Florpo,H,80,80,80
+Morbo,Florpo,H,80,80,80
+Abdul,Rahmon,M,80,80,80
+Abdulla,Rahmon,M,80,80,80
+Ziggy,Jeremy,H,80,80,80
+ah my head,Ouch,M,80,80,80
+the Terrible,Ivan,H,80,80,80
+van Beethoven,Ludwig,H,80,80,80
+Zugg,Zachary,M,80,80,80

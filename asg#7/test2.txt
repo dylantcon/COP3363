@@ -1,0 +1,31 @@
+30
+Jimothy,Jimmy,M,45,70,80
+Ramsay,Gordon,E,100,100,100
+Einstein,Albert,M,100,100,100
+Feynman,Richard,M,100,100,100
+Shakespeare,William,E,50,50,75
+Kelly,Charlie,E,17,80,24
+YourUncle,Bobs,H,85,74,90
+Geraldson,Gerald G,H,90,85,95
+Skywalker,Anakin,H,81,79,78
+Booke,Rita,M,60,69,74
+Tiger,Woods,H,86,91,88
+McCallister,Kevin,E,76,89,67
+Prestridge,Ean,M,80,80,70
+Johnson,Benny,E,76,57,90
+Terror,Reina,H,69,69,69
+Adamson,Adam,M,97,67,76
+Schwarzenegger,Arnold,E,80,51,100
+Falcon,Captain,H,56,78,89
+Mario,Luigi,M,100,89,92
+Snake,Solid,E,90,85,86
+Kong,Donkey,H,21,38,40
+Freeman,Gordon,M,96,91,92
+Ketchum,Ash,H,79,83,86
+Zelda,Princess,E,89,95,97
+the Hedgehog,Sonic,E,100,100,100
+Nukem,Duke,M,100,70,75
+Croft,Lara,H,100,100,100
+Chief,Master,E,100,100,100
+Chief,Master,H,100,100,100
+Chief,Master,M,100,100,100

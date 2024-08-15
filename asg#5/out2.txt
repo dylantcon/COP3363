@@ -1,0 +1,61 @@
+
+Student Grade Summary
+---------------------
+
+ENGLISH CLASS
+
+Student Name                              Test Avg
+-----------------------------------------------------------------
+Master Chief                                100.00    A
+Benny Johnson                                75.90    C
+Charlie Kelly                                38.70    F
+Kevin McCallister                            76.30    C
+Gordon Ramsay                               100.00    A
+Arnold Schwarzenegger                        79.30    C
+William Shakespeare                          60.00    D
+Solid Snake                                  86.90    B
+Sonic the Hedgehog                          100.00    A
+Princess Zelda                               94.00    A
+
+                      Class Average          81.11
+-----------------------------------------------------------------
+
+
+HISTORY CLASS
+
+Student Name                              Test Avg
+-----------------------------------------------------------------
+Master Chief                                100.00    A
+Lara Croft                                  100.00    A
+Captain Falcon                               75.80    C
+Gerald G Geraldson                           90.50    A
+Ash Ketchum                                  83.00    B
+Donkey Kong                                  33.70    F
+Anakin Skywalker                             79.20    C
+Reina Terror                                 69.00    D
+Woods Tiger                                  88.30    B
+Bobs YourUncle                               83.70    B
+
+                      Class Average          80.32
+-----------------------------------------------------------------
+
+
+MATH CLASS
+
+Student Name                              Test Avg
+-----------------------------------------------------------------
+Adam Adamson                                 79.60    C
+Rita Booke                                   68.30    D
+Master Chief                                100.00    A
+Albert Einstein                             100.00    A
+Richard Feynman                             100.00    A
+Gordon Freeman                               92.90    A
+Jimmy Jimothy                                66.50    D
+Luigi Mario                                  93.50    A
+Duke Nukem                                   81.00    B
+Ean Prestridge                               76.00    C
+
+                      Class Average          85.78
+-----------------------------------------------------------------
+
+
